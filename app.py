@@ -15,6 +15,6 @@ st.subheader("Streamlit subheading")
 st.write("Welcome!")
 
 if st.button("Click me!"):
-    st.write("Hello Man!!")
+    st.write("Hello There!!")
 else:
     st.write("Noo...")
